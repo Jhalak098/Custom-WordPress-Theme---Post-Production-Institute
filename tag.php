@@ -1,0 +1,1 @@
+<h1><?php single_tag_title(); ?></h1>

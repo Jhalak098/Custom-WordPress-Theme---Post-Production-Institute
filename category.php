@@ -1,0 +1,1 @@
+<h1><?php single_cat_title(); ?></h1>
