@@ -8,6 +8,7 @@ The theme is fast, secure, SEO-friendly, and fully dynamic.
 ---
 <img width="1920" height="7343" alt="screencapture-localhost-custom-theme-2026-04-15-16_44_00" src="https://github.com/user-attachments/assets/ec3f1865-97e6-4060-a0dc-80510ed0b220" />
 
+youtube link: https://youtu.be/H3FcOsE0QXA
 
 
 ## 🚀 Features
